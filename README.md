@@ -1,5 +1,5 @@
 
-
+What I've been up to:
 * :space_invader: [Multiplayer Space MOBA](https://github.com/lfricken/StellarReaction#readme)
 * :eyes: [Obstacle Detection with Xbox 360 Kinect](https://github.com/lfricken/obstacle_detection#readme)
 * :flashlight:[Ray Tracer from scratch in C++](https://github.com/lfricken/RayTracer/tree/master#readme)
