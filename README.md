@@ -7,4 +7,4 @@
 * :100: [StarCraft 2 Win Prediction Model (Neural Networks in Tensorflow)](https://github.com/lfricken/sc2ai#readme)
 * :moneybag: [Google Maps Mini App](https://github.com/lfricken/kendall_webapp_public#readme)
 * :green_apple: [Civilization V Mod (Modifies the CvGameCore C++ DLL)](https://github.com/lfricken/LeonMod#readme)
-* :arrow_down: Tens of thousands of downloads on my Steam Workshop across various mods
+* :arrow_down: Tens of thousands of downloads on my Steam Workshop across various mods (PM me)
