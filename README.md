@@ -1,5 +1,5 @@
 
-What I've been up to:
+What I've been up to: [Download Resume Here](https://github.com/lfricken/resume/blob/main/resume-compressed.pdf)
 * :space_invader: [Multiplayer Space MOBA (C++)](https://github.com/lfricken/StellarReaction#readme)
 * :eyes: [Obstacle Detection with Xbox 360 Kinect (C++, Computer Vision)](https://github.com/lfricken/obstacle_detection#readme)
 * :flashlight:[Ray Tracer from scratch (C++)](https://github.com/lfricken/RayTracer/tree/master#readme)
