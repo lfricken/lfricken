@@ -9,4 +9,5 @@ What I've been up to: [Download Resume Here](https://github.com/lfricken/resume/
 * :heavy_multiplication_x:[GPU Accelerated Gas Simulation (GLSL, ~50x faster than Multithreaded CPU)](https://github.com/lfricken/SpaceStationManager/tree/custom_dx_dy/Assets/Scripts#readme)
 * :100: [StarCraft 2 Win Prediction Model (Python, Neural Networks in Tensorflow)](https://github.com/lfricken/sc2ai#readme)
 * :moneybag: [Google Maps Mini App (JavaScript)](https://github.com/lfricken/kendall_webapp_public#readme)
+* ☢️ [Bug fixes and feature expansion for the game DEFCON](https://www.moddb.com/mods/defcon-easy-mod) (source protected)
 * :arrow_down: Tens of thousands of downloads on my Steam Workshop across various mods (DM me)
